@@ -1,0 +1,43 @@
+/* Promise-based Divide Function */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: "Poppins", "Segoe UI", Arial, sans-serif;
+    background-color: #f4f6fb;
+}
+
+.card {
+    width: 90%;
+    max-width: 480px;
+    padding: 36px 30px;
+    text-align: center;
+    background-color: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 6px 24px rgba(31, 41, 55, 0.1);
+}
+
+.card h1 {
+    margin-bottom: 14px;
+    font-size: 26px;
+    color: #f59e0b;
+}
+
+.card p {
+    font-size: 15px;
+    color: #4b5563;
+}
+
+.hint {
+    margin-top: 12px;
+    font-size: 13px;
+    color: #6b7280;
+}
